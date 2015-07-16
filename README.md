@@ -1,7 +1,7 @@
 # Merge Sort and Inversion Counter
 ## O(nlog(n)) time
 
-__author__ = 'cb12041'
+__author__ = 'daftmath@gmail.com'
 
 Python implementation of merge sort with inversion counter in O(nlog(n)) time
 
