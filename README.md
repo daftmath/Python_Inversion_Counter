@@ -1,4 +1,4 @@
-# Merge Sort and Inversion Counter
+# Python3 Merge Sort and Inversion Counter
 ## O(nlog(n)) time
 
 \__author__ = 'daftmath@gmail.com'
