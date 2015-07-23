@@ -1,4 +1,4 @@
-__author__ = 'cwb'
+__author__ = 'daftmath@gmail.com'
 
 # Python implementation of merge sort with inversion counter in O(nlog(n)) time
 
